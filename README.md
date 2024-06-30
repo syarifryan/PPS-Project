@@ -10,7 +10,7 @@ Project PPS ini merupakan project akhir dari mata kuliah Pengembangan dan Penera
 Project is created with:
 * Reactjs
 * Nodejs
-* Nodejs
+* Expressjs
 * MySQL
 	
 ## Setup
@@ -20,6 +20,7 @@ To run this project, install it locally using npm:
 $ cd backend
 $ npm install
 $ node server.js
+```
 ```
 $ cd frontend
 $ npm install
